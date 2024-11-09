@@ -1,0 +1,154 @@
+[
+    {
+        "id": 1,
+        "name": "The Adventures of Wonder",
+        "title": "An exciting journey into uncharted territories.",
+        "price": 0,
+        "category": "free",
+        "image": "https://picsum.photos/300/300?love"
+    },
+    {
+        "id": 2,
+        "name": "Classic Literature Collection",
+        "title": "A timeless compilation of literary masterpieces.",
+        "price": 10,
+        "category": "Literature",
+        "image": "https://picsum.photos/300/300?forest"
+    },
+    {
+        "id": 3,
+        "name": "The Amazing Adventures of Capybara",
+        "title": "A comic journey of an unusual hero.",
+        "price": 20,
+        "category": "free",
+        "image": "https://picsum.photos/300/300?earth"
+    },
+    {
+        "id": 4,
+        "name": "Anime Legends",
+        "title": "The best of anime in one comprehensive book.",
+        "price": 50,
+        "category": "free",
+        "image": "https://picsum.photos/300/300?planet"
+    },
+    {
+        "id": 5,
+        "name": "Manhwa Universe",
+        "title": "Explore the vivid world of Korean comics.",
+        "price": 35,
+        "category": "Manhwa",
+        "image": "https://picsum.photos/300/300?person"
+    },
+    {
+        "id": 6,
+        "name": "Sci-Fi Chronicles",
+        "title": "Travel to the future with thrilling sci-fi tales.",
+        "price": 70,
+        "category": "Sci-Fi",
+        "image": "https://picsum.photos/300/300?lion"
+    },
+    {
+        "id": 7,
+        "name": "Romantic Comedies",
+        "title": "Heartwarming stories of love and laughter.",
+        "price": 100,
+        "category": "Romantic",
+        "image": "https://picsum.photos/300/300?greyscale"
+    },
+    {
+        "id": 8,
+        "name": "Laughter Therapy",
+        "title": "A collection of side-splitting comedy stories.",
+        "price": 70,
+        "category": "free",
+        "image": "https://picsum.photos/300/300?women"
+    },
+    {
+        "id": 9,
+        "name": "Cricket Legends",
+        "title": "A deep dive into the lives of cricket legends.",
+        "price": 10,
+        "category": "free",
+        "image": "https://picsum.photos/300/300?girl"
+    },
+    {
+        "id": 10,
+        "name": "Mystery and Thrills",
+        "title": "An anthology of the most suspenseful thrillers.",
+        "price": 30,
+        "category": "Thriller",
+        "image": "https://picsum.photos/300/300?man"
+    },
+    {
+        "id": 11,
+        "name": "Horror Stories to Tell in the Dark",
+        "title": "Chilling tales that will keep you up at night.",
+        "price": 50,
+        "category": "Horror",
+        "image": "https://picsum.photos/300/300?movies"
+    },
+    {
+        "id": 12,
+        "name": "Love Stories Across Time",
+        "title": "Romantic tales that transcend eras.",
+        "price": 90,
+        "category": "Love",
+        "image": "https://picsum.photos/300/300?socialmedia"
+    },
+    {
+        "id": 13,
+        "name": "Free Poems of Beauty",
+        "title": "A poetic celebration of love and beauty.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://picsum.photos/300/300?beauty"
+    },
+    {
+        "id": 14,
+        "name": "Kindness: A Book of Stories",
+        "title": "Heartwarming stories that inspire kindness.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://picsum.photos/300/300?kind"
+    },
+    {
+        "id": 15,
+        "name": "Animal Kingdom",
+        "title": "A journey into the world of amazing animals.",
+        "price": 140,
+        "category": "Nature",
+        "image": "https://picsum.photos/300/300?animal"
+    },
+    {
+        "id": 16,
+        "name": "Humanity Chronicles",
+        "title": "Exploring the essence of humanity.",
+        "price": 290,
+        "category": "Philosophy",
+        "image": "https://picsum.photos/300/300?human/grey"
+    },
+    {
+        "id": 17,
+        "name": "The Art of Driving",
+        "title": "An introspective guide to car culture.",
+        "price": 190,
+        "category": "Automobile",
+        "image": "https://picsum.photos/300/300?car/grey"
+    },
+    {
+        "id": 18,
+        "name": "Elephants and Their World",
+        "title": "Insightful stories about one of nature's giants.",
+        "price": 110,
+        "category": "Nature",
+        "image": "https://picsum.photos/300/300?elephant/grey"
+    },
+    {
+        "id": 19,
+        "name": "The Mystical World of Snakes",
+        "title": "Understanding the fascinating world of snakes.",
+        "price": 180,
+        "category": "Nature",
+        "image": "https://picsum.photos/300/300?snake/grey"
+    }
+]
